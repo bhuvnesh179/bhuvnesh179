@@ -27,5 +27,5 @@
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvnesh-bansal-5126371b0/) 
-[![Twitter](https://img.shields.io/badge/-000000?style=&logo=x&logoColor=white)](https://x.com/hustler_03_06)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=&logo=x&logoColor=white)](https://x.com/hustler_03_06)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-000000?style=flat-square&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/14090613/bhuvnesh-bansal)
